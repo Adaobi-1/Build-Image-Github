@@ -6,7 +6,7 @@ on:
 
 env:
   IMAGE_NAME: latest
-  DOCKERHUB_REPOSITORY: adaobi1/build_image
+  DOCKERHUB_REPOSITORY: adaobi1/build_pipeline
 jobs:
   build:
     runs-on: ubuntu-latest
